@@ -74,8 +74,7 @@ c’est une responsabilité.
 ---
 
 *(Fin du manifeste — Texte de PaKo+AI.)*
-Merci de rejoindre et signer ce manifeste: TK
-* 
-Ou d'en faire une copie et l'améliorer: Fork
+* Merci de rejoindre et signer ce manifeste: TK
+* Ou d'en faire une copie et l'améliorer: Fork
 
 

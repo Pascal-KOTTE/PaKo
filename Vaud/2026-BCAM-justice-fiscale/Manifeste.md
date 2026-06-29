@@ -7,7 +7,7 @@ L’humanité souffre moins de la violence des injustices que de la résignation
 
 ---
 ## Quand l’administration oublie l’humain
-De nombreuses personnes en situation de vulnérabilité administrative se retrouvent imposées sur des revenus fictifs, taxées sur des montants jamais perçus, ou pénalisées par des mécanismes bureaucratiques qui ignorent leur réalité — souvent en raison des retards de traitement de l’administration elle‑même.
+De nombreuses personnes en situation de vulnérabilité administrative se retrouvent imposées sur des revenus fictifs, taxées sur des montants jamais perçus, ou pénalisées par des mécanismes bureaucratiques qui ignorent leur réalité — notamment lorsque des versements administratifs arrivent avec quatre à cinq ans de retard et sont traités fiscalement comme une seule rentrée d’argent, alors qu’ils correspondent en réalité à plusieurs années de droits. Ce décalage technique entre administrations, anodin pour elles, devient une injustice majeure pour les personnes concernées.
 
 ## Quand la machine écrase au lieu de protéger
 Les documents officiels montrent des schémas récurrents :  

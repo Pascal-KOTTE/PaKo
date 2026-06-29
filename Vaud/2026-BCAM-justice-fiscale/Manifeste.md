@@ -1,3 +1,4 @@
+<img width="199" height="231" alt="download" src="https://github.com/user-attachments/assets/1e9cc802-947a-4509-89b4-79bd106d7a60" />
 # MANIFESTE POUR LA DIGNITÉ ADMINISTRATIVE VAUDOISE
 Le préambule de notre Constitution fédérale rappelle que la force d’une société se mesure au bien‑être du plus faible de ses membres.  
 Et que n’est véritablement libre que celui qui use de sa liberté.
@@ -37,6 +38,7 @@ Et nous le faisons publiquement parce que la liberté n’est pas un slogan : c�
 
 ---
 *(Fin du manifeste — Texte de PaKo+AI.)*
+<img width="199" height="231" alt="Vaud" src="https://github.com/user-attachments/assets/7c12ec66-cfa6-4dac-964d-6ca4afed760d" />
 
 ---
 ## Appel à témoignages et soutiens

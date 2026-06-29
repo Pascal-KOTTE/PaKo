@@ -39,5 +39,5 @@ Il vit par les voix de celles et ceux qui ont été confrontés à des injustice
 Nous invitons toute personne concernée à **témoigner**, **documenter**, **partager** son expérience — pour éclairer les autorités, pour améliorer le système, pour que la dignité ne soit plus jamais « une option ».
 ---
 *(Fin du manifeste — Texte de PaKo+AI.)*
-* Merci de rejoindre et signer ce manifeste: créer une "_**Issue**_" ici ou email à pako+manifest2026@kotte.ch
+* Merci de rejoindre et signer ce manifeste: créer une *"_Issue_"* ici ou email à pako+manifest2026@kotte.ch
 * Ou d'en faire une copie et l'adapter ou l'améliorer: Tu peux faire un "**_Fork_**" ici-même, licence CC-BY-SA, merci de repartager votre version - Faire un "**_Pull resquest_**" ici-même, ou email pako+manifest2026@kotte.ch

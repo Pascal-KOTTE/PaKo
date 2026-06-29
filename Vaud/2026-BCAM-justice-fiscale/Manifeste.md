@@ -70,11 +70,9 @@ Nous demandons une justice administrative digne de ce nom.
 Et nous le faisons publiquement.  
 Parce que la liberté n’est pas un slogan :  
 c’est une responsabilité.
-
+---
+*(Fin du manifeste — Texte de PaKo+AI.)*
 ---
 
-*(Fin du manifeste — Texte de PaKo+AI.)*
-* Merci de rejoindre et signer ce manifeste: TK
-* Ou d'en faire une copie et l'améliorer: Fork
-
-
+* Merci de rejoindre et signer ce manifeste: créer une issue ici ou pako+manifest2026@kotte.ch
+* Ou d'en faire une copie et l'adapter ou l'améliorer: Fork (ou simplement recopier et remplacer Gaétan par votre cas ou rester générique), licence CC-BY-SA, merci de repartager votre version - pako+manifest2026@kotte.ch

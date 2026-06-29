@@ -36,7 +36,9 @@ Nous demandons une justice administrative digne de ce nom.
 Et nous le faisons publiquement parce que la liberté n’est pas un slogan : c’est une responsabilité.
 
 ---
-## Appel à témoignages
+*(Fin du manifeste — Texte de PaKo+AI.)*
+---
+## Appel à témoignages et soutiens
 Ce manifeste est ouvert.  
 Il vit par les voix de celles et ceux qui ont été confrontés à des injustices administratives, fiscales ou sociales.  
 Nous invitons toute personne concernée à **témoigner**, **documenter**, **partager** son expérience — pour éclairer les autorités, pour améliorer le système, pour que la dignité ne soit plus jamais « une option ».
@@ -54,7 +56,6 @@ Sans être avocat, je suis éthicien digital et conseiller numérique, signatair
 - [https://charte.c2n.ch](https://charte.c2n.ch) incluant la signature de la Charte Kalix.
 - [https://charte.mydatavaud.ch](https://charte.mydatavaud.ch)
 
----
-*(Fin du manifeste — Texte de PaKo+AI.)*
+### Collecte de Signatures ou reprises/relais
 * Merci de rejoindre et signer ce manifeste: créer une **"_New issue_"** ici (**_Menu Issues_** ci-dessus, _compte_ requis, existant ou à créer) ou email à pako+manifest2026@kotte.ch
 * Ou d'en faire une copie et l'adapter ou l'améliorer: Tu peux faire un **"_Fork_"** ici-même, licence CC-BY-SA, merci de repartager votre version - Faire un "**_Pull resquest_**" ici-même, ou email pako+manifest2026@kotte.ch

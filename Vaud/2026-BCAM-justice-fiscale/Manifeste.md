@@ -50,5 +50,5 @@ Nous invitons toute personne concernée à **témoigner**, **documenter**, **par
 
 ---
 *(Fin du manifeste — Texte de PaKo+AI.)*
-* Merci de rejoindre et signer ce manifeste: créer une **"_New issue_"** ici (**_Menu Issues_** ci-dessus, _compte_ requis, existant ou à créer) ou email à pako+manifest2026@kotte.ch
-* Ou d'en faire une copie et l'adapter ou l'améliorer: Tu peux faire un **"_Fork_"** ici-même, licence CC-BY-SA, merci de repartager votre version - Faire un "**_Pull resquest_**" ici-même, ou email pako+manifest2026@kotte.ch
+* Merci de rejoindre et signer ce manifeste: créer une **"_New issue_"** ici (**_Menu Issues_** ci-dessus, _compte_ requis, existant ou à créer) ou email à pako+manifeste2026@kotte.ch
+* Ou d'en faire une copie et l'adapter ou l'améliorer: Tu peux faire un **"_Fork_"** ici-même, licence CC-BY-SA, merci de repartager votre version - Faire un "**_Pull resquest_**" ici-même, ou email pako+manifeste2026@kotte.ch
